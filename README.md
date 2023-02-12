@@ -5,9 +5,10 @@ Giorgia Vocino, Marion Charpier Tomas Chaineux, Aude Eychenne - février 2023
 Ce projet a été réalisé dans le cadre du cours "Données, Web de données et exploitation" au master 2 "Technologies numériques appliquées à l'histoire" de l'Ecole nationale des chartes. L'objectif du projet a consisté à enrichir les dataset d'artistes, d'oeuvres et d'expositions du Moma, afin de pouvoir rendre compte de deux axes de développement du musée depuis 1926 : sa politique d'acquisition et son activité d'exposition.
 
 # Jeux de données 
-https://zenodo.org/badge/latestdoi/67644440
 
 Les trois sets de données d'origine du projet sont disponibles sur le github du Moma :
+
+https://zenodo.org/badge/latestdoi/67644440
 
 Le jeu de données Artists contient 15 243 enregistrements d'artistes ayant des œuvres dans la collection du MoMA et catalogués avec les métadonnées suivantes : nom, nationalité, sexe, année de naissance, année de décès, Wiki QID, Getty ULAN ID.
 
