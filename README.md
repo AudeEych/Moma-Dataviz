@@ -5,11 +5,11 @@ Ce projet a été réalisé dans le cadre du cours "Données, Web de données et
 
 ## Visualisation de l’activité d’acquisition  des œuvres au fil des années à travers les six départements du Moma
 
-### Evolution de la représentation des nationalités dans les collections 
+## Evolution de la représentation des nationalités dans les collections 
 
-Proportion d’artistes exposés de leur vivant depuis la création du musée jusqu’en 1989
+## Proportion d’artistes exposés de leur vivant depuis la création du musée jusqu’en 1989
 
-Evolution de l'activité d’exposition du musée de sa création jusqu'aujourd’hui
+## Evolution de l'activité d’exposition du musée de sa création jusqu'aujourd’hui
 
 # Titre du projet
 _(juste en dessous des badges sympatiques à placer)_
