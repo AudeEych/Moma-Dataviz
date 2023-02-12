@@ -5,8 +5,11 @@ Ce projet a été réalisé dans le cadre du cours "Données, Web de données et
 
 # Jeux de données
 Nos sets d'origine sont les trois sets disponible sur le githb du Moma 
+
 Le jeu de données Artists contient 15 243 enregistrements d'artistes ayant des œuvres dans la collection du MoMA et catalogués avec les métadonnées suivantes : nom, nationalité, sexe, année de naissance, année de décès, Wiki QID, Getty ULAN ID.
+
 Le jeu de données Artworks contient 140 848 enregistrements des œuvres qacquises dans la collection du MoMA et cataloguées avec les métadonnées suivantes : titre, artiste, date de réalisation, support, dimensions, date d'acquisition. Certaines entrées comportent des informations incomplètes et sont notées comme "non approuvées par le conservateur".
+
 Le jeu de données Exhibitions répertorie 1 788 expositions, représentant toutes les expositions connues organisées au musée de 1929 à 1989. Les métadonnées sont nombreuses et les essentielles retenues pour le projet sont les suivantes : ExhibitionID, ExhibitionNumber, titre de l'exposition dates de début et fin d'exposition,  Wikidata QID.
 
 # Data Visualisations
