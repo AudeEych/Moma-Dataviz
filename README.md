@@ -5,6 +5,7 @@ Ce projet a été réalisé dans le cadre du cours "Données, Web de données et
 
 # Jeux de données 
 https://zenodo.org/badge/latestdoi/67644440
+
 Les trois sets de données d'origine du projet sont disponibles sur le github du Moma :
 
 Le jeu de données Artists contient 15 243 enregistrements d'artistes ayant des œuvres dans la collection du MoMA et catalogués avec les métadonnées suivantes : nom, nationalité, sexe, année de naissance, année de décès, Wiki QID, Getty ULAN ID.
