@@ -3,6 +3,14 @@
 Giorgia Vocino, Marion Charpier Tomas Chaineux, Aude Eychenne - février 2023
 Ce projet a été réalisé dans le cadre du cours "Données, Web de données et exploitation" au master 2 "Technologies numériques appliquées à l'histoire" de l'Ecole nationale des chartes.L'objectif du projet a consisté à enrichir les dataset d'oeuvres et d'expositions du Moma afin de pouvoir rendre compte de deux axes de développement du musée depuis 1926 : sa politique d'acquisition et son activité d'exposition.
 
+# Jeux de données
+Nos sets d'origine sont les trois sets disponible sur le githb du Moma 
+Le jeu de données Artists contient 15 243 enregistrements d'artistes ayant des œuvres dans la collection du MoMA et catalogués avec les métadonnées suivantes : nom, nationalité, sexe, année de naissance, année de décès, Wiki QID, Getty ULAN ID.
+Le jeu de données Artworks contient 140 848 enregistrements des œuvres qacquises dans la collection du MoMA et cataloguées avec les métadonnées suivantes : titre, artiste, date de réalisation, support, dimensions, date d'acquisition. Certaines entrées comportent des informations incomplètes et sont notées comme "non approuvées par le conservateur".
+Le jeu de données Exhibitions répertorie 1 788 expositions, représentant toutes les expositions connues organisées au musée de 1929 à 1989. Les métadonnées sont nombreuses et les essentielles retenues pour le projet sont les suivantes : ExhibitionID, ExhibitionNumber, titre de l'exposition dates de début et fin d'exposition,  Wikidata QID.
+
+# Data Visualisations
+
 ## Visualisation de l’activité d’acquisition  des œuvres au fil des années à travers les six départements du Moma
 
 ## Evolution de la représentation des nationalités dans les collections 
@@ -11,7 +19,7 @@ Ce projet a été réalisé dans le cadre du cours "Données, Web de données et
 
 ## Evolution de l'activité d’exposition du musée de sa création jusqu'aujourd’hui
 
-# Titre du projet
+
 _(juste en dessous des badges sympatiques à placer)_
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
