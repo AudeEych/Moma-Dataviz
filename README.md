@@ -19,7 +19,7 @@ Le jeu de données Exhibitions répertorie 1 788 expositions, représentant tout
 # Création de nouveaux jeux de données
 Les données initiales ont été complétées de la façon suivante :
 
-Le jeux de données artists du Moma a été enrichi avec les personnes référencées comme artistes de Wikipédia via requêtage Sparql afin d'augme,ter les références Wikidata du fichier de départ.(Jeu de départ 3244 WikiId artistes / Jeu d'arrivée: 4002 WikiId artistes.)
+Le jeux de données artists du Moma a été enrichi avec les personnes référencées comme artistes de Wikipédia via requêtage Sparql afin d'augmenter les références Wikidata du fichier de départ. (Jeu de départ 3244 WikiId artistes / Jeu d'arrivée: 4002 WikiId artistes.)
 
 Le jeu de données artworks a été enrichi avec ce jeu d'arrivée artistes Moma-Wiki.
 
