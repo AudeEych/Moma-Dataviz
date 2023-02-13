@@ -2,11 +2,11 @@
 
 Giorgia Vocino, Marion Charpier Tomas Chaineux, Aude Eychenne - février 2023
 
-Ce projet a été réalisé dans le cadre du cours "Données, Web de données et exploitation" au master 2 "Technologies numériques appliquées à l'histoire" de l'Ecole nationale des chartes. L'objectif du projet a consisté à enrichir les dataset d'artistes, d'oeuvres et d'expositions du Moma, afin de pouvoir rendre compte de deux axes de développement du musée depuis 1926 : sa politique d'acquisition et son activité d'exposition.
+Ce projet a été réalisé dans le cadre du cours "Données, Web de données et exploitation" au master 2 "Technologies numériques appliquées à l'histoire" de l'Ecole Nationale des Chartes. L'objectif du projet a consisté à enrichir les dataset d'artistes, d'oeuvres et d'expositions du MoMA, afin de pouvoir rendre compte de deux axes de développement du musée depuis 1926 : sa politique d'acquisition et son activité d'exposition.
 
 # Jeux de données 
 
-Les trois sets de données d'origine du projet sont disponibles sur le github du Moma :
+Les trois sets de données d'origine du projet sont disponibles sur le github du MoMA :
 
 https://zenodo.org/badge/latestdoi/67644440
 
@@ -19,16 +19,16 @@ Le jeu de données Exhibitions répertorie 1 788 expositions, représentant tout
 # Création de nouveaux jeux de données
 Les données initiales ont été complétées de la façon suivante :
 
-Le jeux de données artists du Moma a été enrichi avec les personnes référencées comme artistes de Wikipédia via requêtage Sparql afin d'augmenter les références Wikidata du fichier de départ. (Jeu de départ 3244 WikiId artistes / Jeu d'arrivée: 4002 WikiId artistes.)
+Le jeux de données artists du MoMA a été enrichi avec les personnes référencées comme artistes de Wikipédia via requêtage Sparql afin d'augmenter les références Wikidata du fichier de départ. (Jeu de départ 3244 WikiId artistes / Jeu d'arrivée: 4002 WikiId artistes.)
 
-Le jeu de données artworks a été enrichi avec ce jeu d'arrivée artistes Moma-Wiki.
+Le jeu de données artworks a été enrichi avec ce jeu d'arrivée artistes MoMA-Wiki.
 
-Le jeu de données exhibitions du Moma a été enrichi avec les expositions référencées dans Wikipédia via requêtage Sparql afin de rendre compte également des expositions présentées au musée depuis 1989.(Jeu de départ 1666 titres d'expositons / jeu d'arrivée: 2438 titres d’expositions.)
+Le jeu de données exhibitions du MoMA a été enrichi avec les expositions référencées dans Wikipédia via requêtage Sparql afin de rendre compte également des expositions présentées au musée depuis 1989.(Jeu de départ 1666 titres d'expositons / jeu d'arrivée: 2438 titres d’expositions.)
        
 # Data Visualisations
 Les datavisualisations sont disponibles ici :
 
-- Activité d’acquisition des œuvres au fil des années à travers les six départements du Moma.
+- Activité d’acquisition des œuvres au fil des années à travers les six départements du MoMA.
 
 - Etat de la représentation des nationalités dans les collections du musée. 
 
