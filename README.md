@@ -28,13 +28,13 @@ Le jeu de données exhibitions du Moma a été enrichi avec les expositions réf
 # Data Visualisations
 Les datavisualisations sont disponibles ici :
 
-- Visualisation de l’activité d’acquisition  des œuvres au fil des années à travers les six départements du Moma.
+- Activité d’acquisition des œuvres au fil des années à travers les six départements du Moma.
 
-## Evolution de la représentation des nationalités dans les collections du musée. 
+- Etat de la représentation des nationalités dans les collections du musée. 
 
-## Proportion d’artistes exposés de leur vivant depuis la création du musée jusqu’en 1989.
+- Proportion d’artistes exposés de leur vivant depuis la création du musée jusqu’en 1989.
 
-## Evolution de l'activité d’exposition du musée de sa création jusqu'aujourd’hui.
+- Evolution de l'activité d’exposition du musée de sa création jusqu'aujourd’hui.
 
 
 
