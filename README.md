@@ -28,7 +28,7 @@ Le jeu de données exhibitions du Moma a été enrichi avec les expositions réf
 # Data Visualisations
 Les datavisualisations sont disponibles ici :
 
-*Visualisation de l’activité d’acquisition  des œuvres au fil des années à travers les six départements du Moma.
+- Visualisation de l’activité d’acquisition  des œuvres au fil des années à travers les six départements du Moma.
 
 ## Evolution de la représentation des nationalités dans les collections du musée. 
 
