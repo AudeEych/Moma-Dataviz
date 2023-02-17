@@ -16,14 +16,7 @@ Le jeu de données Artworks contient 140 848 enregistrements des œuvres qacquis
 
 Le jeu de données Exhibitions répertorie 1 788 expositions, représentant toutes les expositions connues organisées au musée de 1929 à 1989. Les métadonnées essentielles retenues pour le projet sont les suivantes : ExhibitionID, ExhibitionNumber, titre de l'exposition dates de début et fin d'exposition,  Wikidata QID.
 
-# Création de nouveaux jeux de données
-Les données initiales ont été complétées de la façon suivante :
 
-Le jeux de données artists du MoMA a été enrichi avec les personnes référencées comme artistes de Wikipédia via requêtage Sparql afin d'augmenter les références Wikidata du fichier de départ. (Jeu de départ 3244 WikiId artistes / Jeu d'arrivée: 4002 WikiId artistes.)
-
-Le jeu de données artworks a été enrichi avec ce jeu d'arrivée artistes MoMA-Wiki.
-
-Le jeu de données exhibitions du MoMA a été enrichi avec les expositions référencées dans Wikipédia via requêtage Sparql afin de rendre compte également des expositions présentées au musée depuis 1989.(Jeu de départ 1666 titres d'expositons / jeu d'arrivée: 2438 titres d’expositions.)
        
 # Data Visualisations
 Les datavisualisations sont disponibles ici :
